@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/aliihunter/aliamiri.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ali Amiri
+Software Engineer
+Address : Tehran, Narmak
+Tel : (+98)9366113560
+Mail : alihunter@Gmail.com
+SKILLS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+React Js
+React Native
+Git
+Linux,  Ubuntu
+HTML, CSS, Js, mySQL
+PhotoShop
+EXPERIENCE
+Pishgaman School, Tehran — Front-end developer
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Create a webapp and mobile application for online school classes.
+1399/4 - PRESENT
+Mahasa, Tehran,Enqelab  — Front-end developer
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Created a webapp to make connections between employer and employee.
+1398/4  - 98/12
 
-- Bulleted
-- List
+EDUCATION
+Payame Noor University of north Tehran
+Computer Engineering — Bachelor of science
+1396/7  - PRESENT
+ 
 
-1. Numbered
-2. List
+A university without need to presence in classes.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+PROJECTS
+Front-end of  insherkat.com
+PERSONALITY
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aliihunter/aliamiri.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+BirthDate : 1378/01/12
 
-### Support or Contact
+Responsible
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Quick learner
+
+Detail oriented
+
+OnTime
+
+Optimist
+LANGUAGES
+Persion : native
+English : intermediate
+
