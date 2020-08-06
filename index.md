@@ -1,11 +1,11 @@
 
 Ali Amiri <br />
 Software Engineer <br />
-Address : Tehran, Narmak
-Tel : (+98)9366113560
-Mail : alihunter@Gmail.com
+Address : Tehran, Narmak <br />
+Tel : (+98)9366113560 <br />
+Mail : alihunter@Gmail.com <br />
 
-
+<hr />
 SKILLS:
 
 React Js
