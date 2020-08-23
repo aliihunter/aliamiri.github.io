@@ -57,7 +57,6 @@ English : intermediate <br />
 <hr />
 <div dir="rtl">
 <b> علی امیری </b> <br />
-<br />
 مهندس نرم افزار
 <br />
 آدرس : تهران . نارمک
@@ -84,6 +83,13 @@ Mahasa, Tehran,Enqelab  — Front-end developer <br />
 Created a webapp to make connections between employer and employee. <br />
 1398/4  - 98/12 <br />
 <hr />
+
+
+<b> تحصیلات: </b> <br />
+Payame Noor University of north Tehran <br />
+Computer Engineering — Bachelor of science <br />
+1396/7  - PRESENT <br />
+<br />
  
  
 <hr />
