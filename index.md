@@ -54,5 +54,6 @@ Persion : native <br />
 English : intermediate <br />
 
 <hr />
-<hr />
+<b> علی امیری <b/>
+
 <a href="http://s10.picofile.com/file/8406525392/ali_amiri_CV_CheckList_AR_3983.docx.html">ارزیابی رزومه</a>
