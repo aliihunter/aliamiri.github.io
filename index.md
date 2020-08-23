@@ -93,5 +93,5 @@ Computer Engineering — Bachelor of science <br />
  
  
 <hr />
-<a href="http://s10.picofile.com/file/8406525392/ali_amiri_CV_CheckList_AR_3983.docx.html">ارزیابی رزومه</a>
+<a href="uupload.ir/filelink/6xUqnNSRQ73o/65db_ali_amiri_cv_checklist_ar_3983.docx">ارزیابی رزومه</a>
 </div
