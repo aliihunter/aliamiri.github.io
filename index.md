@@ -54,7 +54,6 @@ Persion : native <br />
 English : intermediate <br />
 
 <hr />
-<hr />
 <div dir="rtl">
 <b> علی امیری </b> <br />
 مهندس نرم افزار
