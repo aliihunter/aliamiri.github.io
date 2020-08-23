@@ -54,6 +54,7 @@ Persion : native <br />
 English : intermediate <br />
 
 <hr />
+<hr />
 <div dir="rtl">
 <b> علی امیری </b> <br />
 <br />
@@ -71,8 +72,18 @@ Git <br />
 Linux, Ubuntu <br />
 HTML, CSS, Js, mySQL <br />
 PhotoShop <br />
- 
 
+<hr />
+<b> تجربه کاری: </b> <br />
+Pishgaman School, Tehran — Front-end developer <br />
+Create a webapp and mobile application for online school classes. <br />
+1399/4 - PRESENT <br />
+
+<br />
+Mahasa, Tehran,Enqelab  — Front-end developer <br />
+Created a webapp to make connections between employer and employee. <br />
+1398/4  - 98/12 <br />
+<hr />
  
  
 <hr />
