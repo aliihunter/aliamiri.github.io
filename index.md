@@ -94,5 +94,5 @@ Computer Engineering — Bachelor of science <br />
 <hr />
 <a href="https://quera.ir/profile/alihunter.0078"> عضویت کویرا </a>
 <br />
-<a href="uupload.ir/filelink/6xUqnNSRQ73o/65db_ali_amiri_cv_checklist_ar_3983.docx">ارزیابی رزومه</a>
+<a href="http://uupload.ir/filelink/6xUqnNSRQ73o/65db_ali_amiri_cv_checklist_ar_3983.docx">ارزیابی رزومه</a>
 </div
