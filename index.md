@@ -56,10 +56,23 @@ English : intermediate <br />
 <hr />
 <div dir="rtl">
 <b> علی امیری </b> <br />
+<br />
 مهندس نرم افزار
+<br />
 آدرس : تهران . نارمک
+<br />
 شماره : ۰۹۳۶۶۱۱۳۵۶۰
-<b> مهارت ها: </b> 
+<br />
+<hr />
+<b> مهارت ها: </b> <br />
+React Js <br />
+React Native <br />
+Git <br />
+Linux, Ubuntu <br />
+HTML, CSS, Js, mySQL <br />
+PhotoShop <br />
+ 
+
  
  
 <hr />
