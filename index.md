@@ -53,3 +53,6 @@ Optimist <br />
 Persion : native <br />
 English : intermediate <br />
 
+<hr />
+<hr />
+<a href="http://s10.picofile.com/file/8406525392/ali_amiri_CV_CheckList_AR_3983.docx.html">ارزیابی رزومه</a>
