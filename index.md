@@ -56,5 +56,12 @@ English : intermediate <br />
 <hr />
 <div dir="rtl">
 <b> علی امیری </b> <br />
+مهندس نرم افزار
+آدرس : تهران . نارمک
+شماره : ۰۹۳۶۶۱۱۳۵۶۰
+<b> مهارت ها: </b> 
+ 
+ 
+<hr />
 <a href="http://s10.picofile.com/file/8406525392/ali_amiri_CV_CheckList_AR_3983.docx.html">ارزیابی رزومه</a>
 </div
