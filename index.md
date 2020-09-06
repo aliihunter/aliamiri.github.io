@@ -54,41 +54,7 @@ Persion : native <br />
 English : intermediate <br />
 
 <hr />
-<div dir="rtl">
-<b> علی امیری </b> <br />
-مهندس نرم افزار
-<br />
-آدرس : تهران . نارمک
-<br />
-شماره : ۰۹۳۶۶۱۱۳۵۶۰
-<br />
-<hr />
-<b> مهارت ها: </b> <br />
-React Js <br />
-React Native <br />
-Git <br />
-Linux, Ubuntu <br />
-HTML, CSS, Js, mySQL <br />
-PhotoShop <br />
 
-<hr />
-<b> تجربه کاری: </b> <br />
-Pishgaman School, Tehran — Front-end developer <br />
-Create a webapp and mobile application for online school classes. <br />
-1399/4 - PRESENT <br />
-
-<br />
-Mahasa, Tehran,Enqelab  — Front-end developer <br />
-Created a webapp to make connections between employer and employee. <br />
-1398/4  - 98/12 <br />
-<hr />
-
-
-<b> تحصیلات: </b> <br />
-Payame Noor University of north Tehran <br />
-Computer Engineering — Bachelor of science <br />
-1396/7  - PRESENT <br />
-<br />
  
  
 <hr />
