@@ -1,4 +1,4 @@
-<img s src="https://user-images.githubusercontent.com/55391838/92331979-97715d00-f08f-11ea-9b26-e9c8f49e7f22.jpg" width="200" height="400" />
+<img s src="https://user-images.githubusercontent.com/55391838/92331979-97715d00-f08f-11ea-9b26-e9c8f49e7f22.jpg" width="220" height="220" />
 
 <b> Ali Amiri </b> <br />
 Software Engineer <br />
@@ -59,7 +59,7 @@ English : intermediate <br />
  
  
 <hr />
-<a href="https://quera.ir/profile/alihunter.0078"> عضویت کویرا </a>
+<a href="https://quera.ir/profile/alihunter.0078"> Quera account </a>
 <br />
-<a href="http://uupload.ir/filelink/6xUqnNSRQ73o/65db_ali_amiri_cv_checklist_ar_3983.docx">ارزیابی رزومه</a>
+<a href="http://uupload.ir/filelink/6xUqnNSRQ73o/65db_ali_amiri_cv_checklist_ar_3983.docx">Resume</a>
 </div
